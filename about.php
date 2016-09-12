@@ -5,7 +5,7 @@ $user = 'Рамис';
 $age = '28';
 $mail = 'ramis-kasimov@rambler.ru';
 $location = 'Дербент';
-$about = 'Рекламщик, изучаю программирование';
+$about = 'Маркетолог, изучаю программирование';
 ?>
 <html>
     <head>
